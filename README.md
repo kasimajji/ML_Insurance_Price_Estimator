@@ -53,13 +53,13 @@ The application uses two separate regression models:
    - Algorithm: XGBoost Regressor
    - Features: Age, gender, BMI category, smoking status, medical history, etc.
    - Target: Annual premium amount
-   - Performance: R² score of ~0.85
+   - Performance: R² score of ~0.97
 2. **Other Adults Model** (Age > 25):
 
    - Algorithm: XGBoost Regressor
    - Features: Similar to young adults model with different feature importance
    - Target: Annual premium amount
-   - Performance: R² score of ~0.88
+   - Performance: R² score of ~0.98
 
 ## 📊 Data Insights
 
