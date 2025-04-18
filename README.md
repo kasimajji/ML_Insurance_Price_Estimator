@@ -161,14 +161,14 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ### Premium Calculator Interface
 
-<img src="screenshots/1.png"> 
-<img src="screenshots/2.png">
+<img src="Screenshots/1.png"> 
+<img src="Screenshots/2.png">
 
 ### Output Sections
 
-<img src="screenshots/3.png"> 
-<img src="screenshots/4.png">
-<img src="screenshots/5.png">
+<img src="Screenshots/3.png"> 
+<img src="Screenshots/4.png">
+<img src="Screenshots/5.png">
 
 </div>
 
