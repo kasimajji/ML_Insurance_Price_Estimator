@@ -9,7 +9,7 @@
 
 This machine learning application predicts health insurance premiums based on personal and health-related factors. The project uses regression models to estimate annual premium amounts based on features such as age, gender, BMI, smoking status, medical history, and more.
 
-![Insurance Premium Estimator App](https://i.imgur.com/placeholder-image.png)
+Url: https://insurance-price-estimator-by-kasimajji.streamlit.app
 
 ## 🔍 Features
 
