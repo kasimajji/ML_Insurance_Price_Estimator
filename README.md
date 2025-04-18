@@ -161,11 +161,14 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ### Premium Calculator Interface
 
-<img src="screenshots/1.png" width="400" alt="Premium Calculator"> <img src="screenshots/2.png" width="400" alt="Premium Calculator Results">
+<img src="screenshots/1.png"> 
+<img src="screenshots/2.png">
 
 ### Output Sections
 
-<img src="screenshots/3.png" width="265" alt="Personal Information"> <img src="screenshots/4.png" width="265" alt="Health Information"> <img src="screenshots/5.png" width="265" alt="Insurance Plan Selection">
+<img src="screenshots/3.png"> 
+<img src="screenshots/4.png">
+<img src="screenshots/5.png">
 
 </div>
 
